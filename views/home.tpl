@@ -16,6 +16,8 @@
 <br/>
 <br/>
 <strong>PS: </strong> If you don't know the group ID, visit <a href="http://lookup-id.com/">here</a>, enter your group URL and choose "Find Group ID". The tool will
-find you the ID. The tool only works with open groups.
+find you the ID. The tool only works with open groups. <br/><br/>
+
+Source Code: <a href="https://github.com/masnun/ceo-checker">Github</a><br/>
 </body>
 </html>
